@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ezra\\Desktop\\GB\\C# Start\\Example\\LessonHello\\LessonHello\\LessonHello_4\\LessonHello_4.csproj",
+      "projectUniqueName": "C:\\Users\\Ezra\\Desktop\\GB\\C# Start\\Example\\LessonHello\\LessonHello_4\\LessonHello_4.csproj",
       "projectName": "LessonHello_4",
-      "projectPath": "C:\\Users\\Ezra\\Desktop\\GB\\C# Start\\Example\\LessonHello\\LessonHello\\LessonHello_4\\LessonHello_4.csproj",
+      "projectPath": "C:\\Users\\Ezra\\Desktop\\GB\\C# Start\\Example\\LessonHello\\LessonHello_4\\LessonHello_4.csproj",
       "packagesPath": "C:\\Users\\Ezra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ezra\\Desktop\\GB\\C# Start\\Example\\LessonHello\\LessonHello\\LessonHello_4\\obj\\",
+      "outputPath": "C:\\Users\\Ezra\\Desktop\\GB\\C# Start\\Example\\LessonHello\\LessonHello_4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ezra\\AppData\\Roaming\\NuGet\\NuGet.Config"
